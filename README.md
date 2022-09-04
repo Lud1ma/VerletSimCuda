@@ -19,7 +19,7 @@ SFML is also required for compiling the programm.
 In Ubuntu, SFML can be acquired by running:
 > sudo apt-get install libsfml-dev
 
-You can also download it from the [official SFML downloads-page](https://www.sfml-dev.org/download.php)
+You can also download it from the [official SFML download page](https://www.sfml-dev.org/download.php).
 
 The programm can then be compiled by running:
 > make
